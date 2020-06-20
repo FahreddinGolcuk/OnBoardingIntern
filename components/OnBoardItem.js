@@ -10,7 +10,8 @@ import {
 const { width, height } = Dimensions.get('window')
 
 const boldConvertedText = (text,type) => {
-    var fields = []
+
+    var fields = [] //word array
     var words = text.split(" ")
     var stillContinue = false
     for (var i = 0; i < words.length; i++) {

@@ -1,7 +1,6 @@
 import React from 'react';
 import {
   View,
-  Text
 } from 'react-native'
 import MockData from './MockData'
 import OnBoard from './components/OnBoard'

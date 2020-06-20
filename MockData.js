@@ -7,7 +7,7 @@ export default mockData = [
     },
     {
         id : 2,
-        title: '**Ücretsiz** heryerde her ATM **yi** kullan',
+        title: '**Ücretsiz** heryerde her ATM yi kullan',
         description : 'Her hesap hareketini sana anında bildiriyoruz ki, **hesabında olanlardan her zaman haberdar ol.**',
         image : require('./src/images/ob-2.png')
     },
@@ -20,13 +20,7 @@ export default mockData = [
     {
         id : 4,
         title: '**Ücretsiz** para transferi',
-        description : '**Dünyanın her** noktasına 7/24 Varco ile ücretsiz para yolla. Hem kurdan kazan, hem masraftan kaç. **Yurt içinde de EFTsiz istediğin hesaba para gönder.**',
-        image : require('./src/images/ob-4.png')
-    },
-    {
-        id : 5,
-        title: '**sdsds** para transferi',
-        description : 'Dünyanın her noktasına 7/24 Varco ile ücretsiz para yolla. Hem kurdan kazan, hem masraftan kaç. **Yurt içinde de EFTsiz istediğin hesaba para gönder.**',
+        description : '**Dünyanın her noktasına** 7/24 Varco ile ücretsiz para yolla. Hem kurdan kazan, hem masraftan kaç. **Yurt içinde de EFTsiz istediğin hesaba para gönder.**',
         image : require('./src/images/ob-4.png')
     },
 ]
